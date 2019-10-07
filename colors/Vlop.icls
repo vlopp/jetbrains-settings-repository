@@ -4,12 +4,12 @@
     <property name="created">2019-10-07T22:10:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-07T22:10:56</property>
+    <property name="modified">2019-10-07T22:35:38</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
@@ -408,7 +408,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -566,7 +565,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="61aeef" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
