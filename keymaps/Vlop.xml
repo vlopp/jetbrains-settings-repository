@@ -7,6 +7,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
 </keymap>
