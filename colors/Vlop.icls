@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="Vlop" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-01T22:17:42</property>
+    <property name="created">2019-10-07T22:10:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
     <property name="modified">2019-10-07T22:10:56</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -414,7 +414,6 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -449,26 +448,23 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="858585" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="8c708a" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="a9a9a9" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -514,7 +510,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="98c379" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -526,7 +521,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -536,8 +530,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="858585" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -598,13 +591,11 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="61aeef" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -2117,7 +2108,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6b727d" />
+        <option name="FOREGROUND" value="beb896" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2500,7 +2491,6 @@
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
@@ -2553,7 +2543,6 @@
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
@@ -2567,7 +2556,6 @@
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="98c379" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_MIXIN">
@@ -2670,7 +2658,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffeb95" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
