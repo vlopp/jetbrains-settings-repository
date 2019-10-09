@@ -9,4 +9,8 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
+  <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
 </application>
