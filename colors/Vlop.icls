@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T22:10:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-14T19:41:09</property>
+    <property name="modified">2019-10-14T22:29:02</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -498,7 +498,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="d95edd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -519,7 +519,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="4cb5dd" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -554,7 +554,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="a6b0bf" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -588,7 +588,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="932b7f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1015,11 +1015,6 @@
       <value>
         <option name="FOREGROUND" value="9876aa" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
