@@ -4,7 +4,7 @@
     <property name="created">2019-10-01T22:17:42</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-14T18:06:16</property>
+    <property name="modified">2019-10-14T19:41:09</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -43,6 +43,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a9dc76" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
