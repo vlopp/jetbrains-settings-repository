@@ -4,10 +4,10 @@
     <property name="created">2019-10-07T22:10:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-14T22:29:02</property>
+    <property name="modified">2019-10-14T23:03:02</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.07" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -24,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
