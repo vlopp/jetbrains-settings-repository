@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T22:10:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-14T23:03:02</property>
+    <property name="modified">2019-10-15T12:11:11</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.07" />
@@ -992,8 +992,7 @@
     </option>
     <option name="JS.CONSOLE">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="4cb5dd" />
       </value>
     </option>
     <option name="JS.DEBUGGER_STMT">
@@ -1030,7 +1029,7 @@
     </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="6ae09d" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
