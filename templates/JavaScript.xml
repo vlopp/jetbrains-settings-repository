@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="ifn" value="if ($ITEM$ != null) {&#10;    $END$&#10;}" description="If not null..." toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
