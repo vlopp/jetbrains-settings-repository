@@ -7,7 +7,9 @@
     <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="18" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="7bd148fc:16d88f8b7a0:-8000" />
