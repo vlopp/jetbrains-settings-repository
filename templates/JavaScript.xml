@@ -5,4 +5,19 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="arw" value="($PARAMS$) =&gt; $END$" description="Inserts a lambda function." toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
+  <template name="lg" value="console.log($END$)" description="Console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
 </templateSet>
