@@ -8,7 +8,7 @@
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
-    <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="None" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
