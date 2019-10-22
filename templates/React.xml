@@ -1,0 +1,10 @@
+<templateSet group="React">
+  <template name="props" value="this.props.$END$" description="Access component's props" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="uef" value="useEffect(() =&gt; {&#10;    $END$&#10;});" description="useEffect" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
