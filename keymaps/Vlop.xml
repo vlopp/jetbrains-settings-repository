@@ -12,4 +12,7 @@
   </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
 </keymap>
