@@ -9,4 +9,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>
