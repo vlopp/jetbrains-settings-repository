@@ -25,4 +25,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="aa" value="as any" description="as any" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
 </templateSet>
