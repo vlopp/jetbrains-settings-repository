@@ -1,5 +1,7 @@
 <templateSet group="React">
-  <template name="props" value="this.props.$END$" description="Access component's props" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="props" value="this.props.$END$" description="Access component's props" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="uss" value="const [$VAR$, $VARNAME$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VARNAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -7,5 +9,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>
