@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Webpack" description="Webpack" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="yarn" />
+      <option name="PARAMETERS" value="webpack" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
