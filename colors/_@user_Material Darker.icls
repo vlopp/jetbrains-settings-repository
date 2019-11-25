@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-22T16:00:00</property>
+    <property name="created">2019-10-25T16:22:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-23T08:47:22</property>
+    <property name="modified">2019-11-25T17:27:31</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -144,9 +144,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -224,7 +221,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -327,7 +324,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.KEYWORD" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -349,7 +346,7 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -694,17 +691,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -717,7 +714,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HAML_WS_REMOVAL">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -725,7 +722,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -981,10 +978,6 @@
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.MODIFIER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1014,10 +1007,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1029,7 +1018,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -1046,7 +1034,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -1112,7 +1100,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -2271,10 +2259,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2620,14 +2608,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="SASS_VARIABLE" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="323232" />
