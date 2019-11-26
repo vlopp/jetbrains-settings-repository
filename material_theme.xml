@@ -1,7 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="userId" value="39c9aac8:16ea6ec3750:-8000" />
-    <option name="version" value="4.9.2.1" />
+    <option name="pristineConfig" value="false" />
+    <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="tabsHeight" value="18" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="7bd148fc:16d88f8b7a0:-8000" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
