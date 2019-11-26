@@ -3,7 +3,4 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-  </component>
 </application>
